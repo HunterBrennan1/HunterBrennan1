@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-<h1 align="center">Hi 👋, I'm Hunter Brennan</h1>
+<h1 align="center">Hi 👋, Welcome To My Profile!</h1>
 <h3 align="center">A passionate Full Stack developer from New Jersey</h3>
 <img align="left" alt="man spinning in chair" width="400" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif"
 
