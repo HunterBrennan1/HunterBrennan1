@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hunterbrennan1" alt="hunterbrennan1" /></a> </p>
 
-- 🔭 I’m currently working on [My Portfolio](https://hunterbrennandev.netlify.app/)
+- 🔭 I’m currently working on [My Portfolio](https://hunterbrennan1.github.io/Hunterdevportfolio/)
 
-- 🌱 I’m currently learning **UC Berkeley Full Stack Web Development Boot Camp**
+- 🌱 Graduate of **UC Berkeley Full Stack Web Development Boot Camp**
 
-- 👨‍💻 All of my projects are available at [https://hunterbrennandev.netlify.app/](https://hunterbrennandev.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://hunterbrennandev.netlify.app/](https://hunterbrennan1.github.io/Hunterdevportfolio/)
 
-- 📫 How to reach me **Hunterrennandev@gmail.com**
+- 📫 How to reach me **Hunterbrennandev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
